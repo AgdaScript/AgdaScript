@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <ul style="list-style-position: inside; text-align: left; display: inline-block;">
+  <ul style="list-style-position: inside; text-align: center; display: inline-block;">
     <li>🔭 I am currently working on Artificial Intelligence projects</li>
     <li>🌱 I’m currently learning machine learning with Python and TensorFlow</li>
     <li>📫 How to reach me: lopesagdalopes@gmail.com</li>
