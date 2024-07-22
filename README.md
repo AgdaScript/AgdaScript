@@ -1,19 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgdaScript.AgdaScript" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=DE6487&center=true&vCenter=true&random=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Agda+Lopes!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=#7844e4&center=true&vCenter=true&random=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Agda+Lopes!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 
 <div align="center">
-  <ul align="center">
-    <li>🔭 I am currently working on Artificial Intelligence projects</p>
-    <li>🌱 I’m currently learning machine learning with python and tensorflow</p>
-    <li>📫 How to reach me: lopesagdalopes@gmail.com</p>
-    <li>😄 Pronouns: she/her</p>
-    <li>⚡ Fun fact: I like Harry Potter🪄</p>
+  <ul style="list-style-position: inside; text-align: left; display: inline-block;">
+    <li>🔭 I am currently working on Artificial Intelligence projects</li>
+    <li>🌱 I’m currently learning machine learning with Python and TensorFlow</li>
+    <li>📫 How to reach me: lopesagdalopes@gmail.com</li>
+    <li>😄 Pronouns: she/her</li>
+    <li>⚡ Fun fact: I like Harry Potter🪄</li>
   </ul>
 </div>
+
 
 <div align="center" style=margin-top: 20px;">
   <a href="https://github.com/AgdaScript">
