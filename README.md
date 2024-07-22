@@ -1,8 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agdaLopes.agdaLopes" />
-
-<div id="header" align="center">
-  <img src="https://1.bp.blogspot.com/-JoBGJ5Oky18/XQkrEua4gYI/AAAAAAAATUQ/fHET-Jfgul0gFU7_XamNRhqEckR5xFa7ACLcBGAs/s1600/neural.gif" width="800"/>
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgdaScript.AgdaScript" />
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=DE6487&center=true&vCenter=true&random=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Agda+Lopes!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -10,11 +6,13 @@
 
 
 <div align="center">
-  <p>- 🔭 I’m currently working on odoo framework</p>
-  <p>- 🌱 I’m currently learning Artificial Intelligence </p>
-  <p>- 📫 How to reach me: lopesagdalopes@gmail.com</p>
-  <p>- 😄 Pronouns: she/her</p>
-  <p>- ⚡ Fun fact: I like Harry Potter🪄</p>
+  <ul>
+    <li>🔭 I am currently working on Artificial Intelligence projects</p>
+    <li>🌱 I’m currently learning machine learning with python and tensorflow</p>
+    <li>📫 How to reach me: lopesagdalopes@gmail.com</p>
+    <li>😄 Pronouns: she/her</p>
+    <li>⚡ Fun fact: I like Harry Potter🪄</p>
+  </ul>
 </div>
 
 <div align="center" style=margin-top: 20px;">
@@ -37,4 +35,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div id="header" align="center">
+  <img src="https://1.bp.blogspot.com/-JoBGJ5Oky18/XQkrEua4gYI/AAAAAAAATUQ/fHET-Jfgul0gFU7_XamNRhqEckR5xFa7ACLcBGAs/s1600/neural.gif" width="800"/>
+</div>
 -->
