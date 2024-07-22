@@ -1,9 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgdaScript.AgdaScript" />
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=#7844e4&center=true&vCenter=true&random=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Agda+Lopes!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9369E9&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;Agda+Lopes+Here+%F0%9F%AB%B6;I+am+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++;from+Cape+Verde+%E2%9C%A8;On+the+path+to+becoming+an+AI+wizard+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" /></a>
 
 <div align="center">
   <ul style="list-style: none; padding: 0; margin: 0; text-align: center;">
