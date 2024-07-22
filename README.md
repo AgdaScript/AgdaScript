@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <ul>
+  <ul align="center">
     <li>🔭 I am currently working on Artificial Intelligence projects</p>
     <li>🌱 I’m currently learning machine learning with python and tensorflow</p>
     <li>📫 How to reach me: lopesagdalopes@gmail.com</p>
@@ -16,9 +16,9 @@
 </div>
 
 <div align="center" style=margin-top: 20px;">
-  <a href="https://github.com/agdaLopes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agdaLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agdaLopes&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/AgdaScript">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgdaScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgdaScript&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
