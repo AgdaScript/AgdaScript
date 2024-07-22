@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgdaScript.AgdaScript" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%F0%9F%91%8B;Agda+Lopes+Here+%F0%9F%AB%B6;I+am+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++;from+Cape+Verde+%E2%9C%A8;On+the+path+to+becoming+an+AI+wizard+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B241DA&width=435&lines=Hi+there+%F0%9F%91%8B;Agda+Lopes+Here+%F0%9F%AB%B6;I+am+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++;from+Cape+Verde+%E2%9C%A8;AI+wizard+in+training+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
 
 <div>
   <ul>
@@ -14,12 +14,7 @@
 
 
 
-<div  style=margin-top: 20px;">
-  <a href="https://github.com/AgdaScript">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgdaScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgdaScript&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+
 
 <!--
 **AgdaScript/AgdaScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +29,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div  style=margin-top: 20px;">
+  <a href="https://github.com/AgdaScript">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgdaScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgdaScript&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
 <div id="header" align="center">
   <img src="https://1.bp.blogspot.com/-JoBGJ5Oky18/XQkrEua4gYI/AAAAAAAATUQ/fHET-Jfgul0gFU7_XamNRhqEckR5xFa7ACLcBGAs/s1600/neural.gif" width="800"/>
