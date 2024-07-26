@@ -9,7 +9,7 @@
 
 <p align="center">
 <div>
-  <ul>
+  <ul align="center">
     <li>🔭 I am currently working on Artificial Intelligence projects</li>
     <li>🌱 I’m currently learning machine learning with Python and TensorFlow</li>
     <li>📫 How to reach me: lopesagdalopes@gmail.com</li>
