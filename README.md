@@ -7,6 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207DF8&width=435&lines=Hi+there+%F0%9F%91%8B;Agda+Lopes+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++;from+Cape+Verde+%E2%9C%A8;AI+wizard+in+training+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
 
+<p align="center">
 <div>
   <ul>
     <li>🔭 I am currently working on Artificial Intelligence projects</li>
@@ -16,6 +17,7 @@
     <li>⚡ Fun fact: I like Harry Potter🪄</li>
   </ul>
 </div>
+</p>
 
 
 
