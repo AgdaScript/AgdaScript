@@ -7,19 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207DF8&width=435&lines=Hi+there+%F0%9F%91%8B;Agda+Lopes+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++;from+Cape+Verde+%E2%9C%A8;AI+wizard+in+training+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
 
-<style>
-        .container {
-            text-align: center;
-        }
-
-        .container ul {
-            display: inline-block;
-            text-align: left; 
-        }
-    </style>
-
-<div class="container">
-  <ul>
+<div  style="display: flex; justify-content: center;">
+  <ul style="display: inline-block; text-align: left;">
     <li>🔭 I am currently working on Artificial Intelligence projects</li>
     <li>🌱 I’m currently learning machine learning with Python and TensorFlow</li>
     <li>📫 How to reach me: lopesagdalopes@gmail.com</li>
