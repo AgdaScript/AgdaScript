@@ -5,7 +5,7 @@
          height="45"
          width="45" /></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=626164&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;It's+Agda+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;and+a+Wizard+on+Training+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F;From+Cape+Verde%F0%9F%8C%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=626164&background=FFFFFF00&center=true&width=435&lines=Hello+World!+%F0%9F%91%8B;It's+Agda+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;and+a+Wizard+on+Training+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F;From+Cape+Verde%F0%9F%8C%8D" alt="Typing SVG" /></a>
 
 
 <h1 align="center">About Me:</h1>
