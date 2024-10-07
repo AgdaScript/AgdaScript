@@ -18,25 +18,15 @@
  
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp6c3k2YXg0Zmt0NGYxMXl6NjVuOHpzbmZybmR2ZHBjemh6bmRnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="" align="right" height="125"/>
 
-- 🔭 I’m currently working at Daffodil Software Ltd. as Sr. Solution Architect & Team Lead 💻
-- 🌱 I’m currently learning about tech-related staff 💫
-- 👯 I’m looking to collaborate with other developers for the invention 💡
-- ✨ Goals: Contribute more to Open Source 🎯 projects
-- ⚡ Fun fact: I love to reading book 📚, enjoying music 🎧 and traveling ✈️
+-🔭 I’m currently working at Health 360 S.A. as a mid-level Computer Engineer 💻
+-🌱 I’m currently learning about Artificial Intelligence topics 💫
+-👯 I’m looking to collaborate with other developers on innovation 💡
+-✨ Goals: Contribute more to Open Source 🎯 projects
+-⚡ Fun fact: I love reading books 📚, enjoying music 🎧, playing chess ♟️, and watching Harry Potter 🪄
 
 ---
 
-<h3 align="center">About Me:</h3>
 
-<div align="center">
-
-  <p>🔭 I am currently working on Artificial Intelligence projects</p>
-  <p>🌱 I’m currently learning machine learning with Python and TensorFlow</p>
-  <p>📫 How to reach me: lopesagdalopes@gmail.com</p>
-  <p>😄 Pronouns: she/her</p>
-  <p>⚡ Fun fact: I like Harry Potter🪄</p>
-
-</div>
 
 
 
@@ -63,6 +53,17 @@ Here are some ideas to get you started:
     <li>😄 Pronouns: she/her</li>
     <li>⚡ Fun fact: I like Harry Potter🪄</li>
   </ul>
+</div>
+<h3 align="center">About Me:</h3>
+
+<div align="center">
+
+  <p>🔭 I am currently working on Artificial Intelligence projects</p>
+  <p>🌱 I’m currently learning machine learning with Python and TensorFlow</p>
+  <p>📫 How to reach me: lopesagdalopes@gmail.com</p>
+  <p>😄 Pronouns: she/her</p>
+  <p>⚡ Fun fact: I like Harry Potter🪄</p>
+
 </div>
 
 <div style="text-align: center;">
