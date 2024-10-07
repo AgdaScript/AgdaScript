@@ -18,11 +18,11 @@
  
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp6c3k2YXg0Zmt0NGYxMXl6NjVuOHpzbmZybmR2ZHBjemh6bmRnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="" align="right" height="125"/>
 
--🔭 I’m currently working at Health 360 S.A. as a mid-level Computer Engineer 💻
--🌱 I’m currently learning about Artificial Intelligence topics 💫
--👯 I’m looking to collaborate with other developers on innovation 💡
--✨ Goals: Contribute more to Open Source 🎯 projects
--⚡ Fun fact: I love reading books 📚, enjoying music 🎧, playing chess ♟️, and watching Harry Potter 🪄
+- 🔭 I’m currently working at Health 360 S.A. as a mid-level Computer Engineer 💻
+- 🌱 I’m currently learning about Artificial Intelligence topics 💫
+- 👯 I’m looking to collaborate with other developers on innovation 💡
+- ✨ Goals: Contribute more to Open Source 🎯 projects
+- ⚡ Fun fact: I love reading books 📚, enjoying music 🎧, playing chess ♟️, and watching Harry Potter 🪄
 
 ---
 
