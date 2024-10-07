@@ -29,7 +29,7 @@
 ##
 
 
-#### 🛠️ Tech Stack: <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px"></a>
+####  <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="20px"></a> Tech Stack:
 <p>
   <div  align="center"><br>
   <img  align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -41,7 +41,6 @@
   <img align="center" alt="Agda-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Agda-odoo" height="35" width="35" src="https://assets-global.website-files.com/6407282fb8fd3f5e4f21e2b0/64a549dcb32e55a254d52cd2_HrEG0mz7dPoT60cskCyU1mrzta40Ky1heqhJVrPf4MQ.png" />
 </div>
-  
 </p>
 
 ##
