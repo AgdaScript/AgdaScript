@@ -1,10 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgdaScript.AgdaScript" />
 
 <h1 align="center">Welcome to the Land of My Creations!<img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px" /></h1>
-         
+       
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=626164&background=FFFFFF00&center=true&width=435&lines=Hello+World!+%F0%9F%91%8B;It's+Agda+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;and+a+Wizard+on+Training+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F;From+Cape+Verde%F0%9F%8C%8D" alt="Typing SVG" /></a>
 </div>
+<p>I am a proactive and passionate professional with over 4 years of experience in developing and implementing innovative solutions in Computer Engineering. My strong communication and teamwork skills have been instrumental in driving successful projects. I am deeply committed to continuous growth and lifelong learning, with a growing curiosity about artificial intelligence and plans to pursue it further. My favorite programming languages are Python and JavaScript, which I use extensively in my work.</p>
+---
 
 
 <h3 align="center">About Me:</h3>
