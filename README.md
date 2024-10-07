@@ -11,7 +11,7 @@
 </div>
 <!--<hr/>-->
 
----
+##
 
 <!-- <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" alt="" align="right" height="125"/> -->
 <!-- <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" align="right" height="125" width="125"/> 
@@ -25,6 +25,16 @@
 - 👯 I’m looking to collaborate with other developers on innovation 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
 - ⚡ Fun fact: I love reading books 📚, enjoying music 🎧, playing chess ♟️, and watching Harry Potter 🪄
+
+##
+
+---
+
+### 🛠️ Tech Stack: <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px"></a>
+<p>
+  <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
+  
+</p>
 
 ---
 
