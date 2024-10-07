@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to the Land of My Creations!<img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px" /></h1>
        
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&pause=1000&width=435&lines=Hello+World+%F0%9F%91%8B;Its+Agda+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;and+a+AI+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F+on+training;From+Cape+Verde+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=25&pause=1000&center=true&width=435&lines=Hello+World+%F0%9F%91%8B;Its+Agda+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;and+a+AI+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F+on+training;From+Cape+Verde+%F0%9F%8C%8D" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
