@@ -12,7 +12,7 @@
 ---
 
 <!-- <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" alt="" align="right" height="125"/> -->
-<img src="https://img.freepik.com/vetores-premium/ilustracao-vetorial-de-programador-em-estilo-de-design-plano_844724-3895.jpg" alt="mulher programando" align="right" height="125"/>
+<img src="https://img.freepik.com/vetores-premium/ilustracao-vetorial-de-programador-em-estilo-de-design-plano_844724-3895.jpg" alt="mulher programando" align="right" height="125" width="125"/>
 
 - 🔭 I’m currently working at Daffodil Software Ltd. as Sr. Solution Architect & Team Lead 💻
 - 🌱 I’m currently learning about tech-related staff 💫
