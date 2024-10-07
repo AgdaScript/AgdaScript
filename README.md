@@ -7,12 +7,12 @@
 </div>
 <p>I am a proactive and passionate professional with over 4 years of experience in developing and implementing innovative solutions in Computer Engineering. My strong communication and teamwork skills have been instrumental in driving successful projects. I am deeply committed to continuous growth and lifelong learning, with a growing curiosity about artificial intelligence and plans to pursue it further. My favorite programming languages are Python and JavaScript, which I use extensively in my work.</p>
 
-<hr/>
+<!--<hr/>-->
 
 ---
 
 <!-- <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" alt="" align="right" height="125"/> -->
-<img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw" alt="" align="right" height="125"/>
+<img src="https://static.vecteezy.com/ti/vetor-gratis/p2/23579761-programacao-e-engenharia-desenvolvimento-minusculo-menina-programador-ou-desenvolvedor-crio-codigo-programacao-linguagem-php-html-css-js-moderno-plano-desenho-animado-estilo-ilustracao-em-branco-fundo-vetor.jpg" alt="mulher programando" align="right" height="125"/>
 
 - 🔭 I’m currently working at Daffodil Software Ltd. as Sr. Solution Architect & Team Lead 💻
 - 🌱 I’m currently learning about tech-related staff 💫
