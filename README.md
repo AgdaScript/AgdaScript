@@ -53,65 +53,7 @@
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lopesagdalopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/agda-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/agda-lopes/" target="_blank"><img src="https://img.shields.io/badge/My%20Portif%C3%B3lio%2C%20pink?style=flat&logo=%F0%9F%93%82
+" target="_blank"></a> 
+       
 </div>
-
-
-
-
-
-
-<!--
-**AgdaScript/AgdaScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<div  align="center">
-  <ul margin="0">
-    <li>🔭 I am currently working on Artificial Intelligence projects</li>
-    <li>🌱 I’m currently learning machine learning with Python and TensorFlow</li>
-    <li>📫 How to reach me: lopesagdalopes@gmail.com</li>
-    <li>😄 Pronouns: she/her</li>
-    <li>⚡ Fun fact: I like Harry Potter🪄</li>
-  </ul>
-</div>
-<h3 align="center">About Me:</h3>
-
-<div align="center">
-
-  <p>🔭 I am currently working on Artificial Intelligence projects</p>
-  <p>🌱 I’m currently learning machine learning with Python and TensorFlow</p>
-  <p>📫 How to reach me: lopesagdalopes@gmail.com</p>
-  <p>😄 Pronouns: she/her</p>
-  <p>⚡ Fun fact: I like Harry Potter🪄</p>
-
-</div>
-
-<div style="text-align: center;">
-    <ul style="display: inline-block; text-align: left;">
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-    </ul>
-</div>
-
-
-<div  style=margin-top: 20px;">
-  <a href="https://github.com/AgdaScript">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgdaScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgdaScript&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://1.bp.blogspot.com/-JoBGJ5Oky18/XQkrEua4gYI/AAAAAAAATUQ/fHET-Jfgul0gFU7_XamNRhqEckR5xFa7ACLcBGAs/s1600/neural.gif" width="800"/>
-</div>
--->
