@@ -9,6 +9,19 @@
 
 <hr/>
 
+---
+
+<!-- <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" alt="" align="right" height="125"/> -->
+<img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw" alt="" align="right" height="125"/>
+
+- 🔭 I’m currently working at Daffodil Software Ltd. as Sr. Solution Architect & Team Lead 💻
+- 🌱 I’m currently learning about tech-related staff 💫
+- 👯 I’m looking to collaborate with other developers for the invention 💡
+- ✨ Goals: Contribute more to Open Source 🎯 projects
+- ⚡ Fun fact: I love to reading book 📚, enjoying music 🎧 and traveling ✈️
+
+---
+
 <h3 align="center">About Me:</h3>
 
 <div align="center">
