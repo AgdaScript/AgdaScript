@@ -12,7 +12,8 @@
 ---
 
 <!-- <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" alt="" align="right" height="125"/> -->
-<img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" align="right" height="125" width="125"/>
+<!-- <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" align="right" height="125" width="125"/> -->
+ <iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
 
 - 🔭 I’m currently working at Daffodil Software Ltd. as Sr. Solution Architect & Team Lead 💻
 - 🌱 I’m currently learning about tech-related staff 💫
