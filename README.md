@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<h3>Mid-level Computer Engineer at @Health 360 S.A. | TensorFlow | IA | ML | Python | WomanInTech | LearningIATogetherCV</h3>
+<h3>Computer Engineer II at @Health 360 S.A. | TensorFlow | IA | ML | Python | WomanInTech | LearningIATogetherCV</h3>
 </div>
 <!--<hr/>-->
 
