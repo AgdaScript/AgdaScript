@@ -1,3 +1,6 @@
+
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgdaScript.AgdaScript" />
 
 <h1 align="center">Welcome to the Land of My Creations!<img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px" /></h1>
@@ -29,7 +32,7 @@
 ##
 
 
-####  <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="20px"></a> Tech Stack:
+#### <div  align="center"> <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="20px"></a> Tech Stack:</div>
 <p>
   <div  align="center"><br>
   <img  align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -46,7 +49,7 @@
 
 ##
 
- ####  <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="20px"></a> Connect with me:
+ ####  <div  align="center"><a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="20px"></a> Connect with me:</div>
 
 <div align="center"> 
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
