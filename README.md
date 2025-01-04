@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<h3>Computer Engineer II at @Health 360 S.A. | TensorFlow | IA | ML | Python | WomanInTech | LearningIATogetherCV</h3>
+<h3>Computer Engineer II at @BCN S.A. (Banco Caboverdiano de Negócios) | TensorFlow | IA | ML | Python | WomanInTech | LearningIATogetherCV</h3>
 </div>
 <!--<hr/>-->
 
@@ -23,7 +23,7 @@
  
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp6c3k2YXg0Zmt0NGYxMXl6NjVuOHpzbmZybmR2ZHBjemh6bmRnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="" align="right" height="125"/>
 
-- 🔭 I’m currently working at Health 360 S.A. as a mid-level Computer Engineer 💻
+- 🔭 I’m currently working at BCN as a Senior Computer Engineer 💻
 - 🌱 I’m currently learning about Artificial Intelligence topics 💫
 - 👯 I’m looking to collaborate with other developers on innovation 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
