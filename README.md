@@ -1,64 +1,69 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Agda </h1>
+<h3 align="center">Computer engineer at @Banco Cabo-verdiano de Négocios</h3>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=AgdaScript">
+    <img src="https://komarev.com/ghpvc/?username=AgdaScript&label=Profile%20views&color=00FFFF&style=flat-square" alt="AgdaScript's profile views" />
+  </a>
+</p>
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgdaScript.AgdaScript" />
-
-<h1 align="center">Welcome to the Land of My Creations!<img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px" /></h1>
-       
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=25&pause=1000&center=true&width=435&lines=Hello+World+%F0%9F%91%8B;Its+Agda+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;and+a+AI+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F+on+training;From+Cape+Verde+%F0%9F%8C%8D" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-<h3>Computer Engineer II at @BCN S.A. (Banco Caboverdiano de Negócios) | TensorFlow | IA | ML | Python | WomanInTech | LearningIATogetherCV</h3>
-</div>
-<!--<hr/>-->
-
-##
-
-<!-- <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" alt="" align="right" height="125"/> -->
-<!-- <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" align="right" height="125" width="125"/> 
-<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
--->
- 
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp6c3k2YXg0Zmt0NGYxMXl6NjVuOHpzbmZybmR2ZHBjemh6bmRnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="" align="right" height="125"/>
-
+## 📌 About Me
 - 🔭 I’m currently working at BCN as a Senior Computer Engineer 💻
 - 🌱 I’m currently learning about Artificial Intelligence topics 💫
 - 👯 I’m looking to collaborate with other developers on innovation 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
-- ⚡ Fun fact: I love reading books 📚, enjoying music 🎧, playing chess ♟️, and watching Harry Potter 🪄
-
-##
+- ⚡ Fun fact: I love reading books 📚, enjoying music 🎧, playing chess ♟️, and watching Harry Potter 🪄 and animes 🍥
 
 
-#### <div  align="center"> <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="20px"></a> Tech Stack:</div>
-<p>
-  <div  align="center"><br>
-  <img  align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Agda-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Agda-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Agda-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Agda-puppeter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
-  <img align="center" alt="Agda-swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-  <img align="center" alt="Agda-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Agda-odoo" height="35" width="35" src="https://assets-global.website-files.com/6407282fb8fd3f5e4f21e2b0/64a549dcb32e55a254d52cd2_HrEG0mz7dPoT60cskCyU1mrzta40Ky1heqhJVrPf4MQ.png" />
-<img align="center" alt="Agda-odoo" height="35" width="35" src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" />
-</div>
+## 🧠 My Focus Areas
+- Data science, AI and ML researches  📚
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/AgdaScript">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgdaScript&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="AgdaScript's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=AgdaScript&theme=radical&hide_border=true&cache_seconds=86400" alt="AgdaScript's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=AgdaScript&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Agda 's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AgdaScript&theme=radical&radius=10" alt="AgdaScript's Activity Graph" />
 </p>
 
-##
 
- ####  <div  align="center"><a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="20px"></a> Connect with me:</div>
+## 🛠️ Languages & Tools
 
-<div align="center"> 
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lopesagdalopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/agda-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/agda-lopes/" target="_blank"><img src="https://img.shields.io/badge/My%20Portif%C3%B3lio%2C%20pink?style=flat&logo=%F0%9F%93%82
-" target="_blank"></a> 
-       
-</div>
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
 
-![snake gif](https://github.com/AgdaScript/AgdaScript/blob/output/github-contribution-grid-snake-dark.svg)
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/AgdaScript">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgdaScript&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/agda-lopes/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:lopesagdalopes@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://agdascript.github.io/agdalopes/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
