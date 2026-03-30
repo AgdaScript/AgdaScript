@@ -18,7 +18,7 @@
 ## 📌 About Me
 
 <p align="center">
-I’m a proactive professional with a genuine passion for what I do. I have five years of solid experience in developing and implementing innovative solutions in Computer Engineering. I bring strong communication and collaboration skills to every team I work with. My focus is on continuous growth and lifelong learning.
+I’m a proactive professional with a genuine passion for what I do. I have five years of solid experience in developing and implementing innovative solutions in Computer Engineering. I bring strong communication and collaboration skills to every team I work with. My focus is on continuous growth and lifelong learning, and I’m always producing open-source solutions to support and empower other developers on their journeys.
 </p>
 
 <p align="center">
