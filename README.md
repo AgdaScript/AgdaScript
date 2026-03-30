@@ -1,9 +1,11 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30" alt=""  />
-</p>
+</p> -->
+<h1 align="center">Welcome to the Land of my Creations.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I%27m+Agda&center=true&width=380&height=50&pause=1200&repeat=true" alt="Hey I'm Agda" />
+  <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I%27m+Agda&center=true&width=380&height=50&pause=1200&repeat=true" alt="Hey I'm Agda" /> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&center=true&lines=Hi+%F0%9F%91%8B;Its+Agda+Here+%F0%9F%AB%B6;I'm+a+Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;from+Cabo+Verde+%F0%9F%87%A8%F0%9F%87%BB" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Computer engineer at @Banco Cabo-verdiano de Négocios</h3>
 
@@ -34,45 +36,56 @@ Outside of work, I love reading, listening to music, playing chess, and watching
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/AgdaScript">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgdaScript&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="AgdaScript's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=AgdaScript&theme=radical&hide_border=true&cache_seconds=86400" alt="AgdaScript's GitHub Streak" width="49%" />
+  <a href="https://github.com/AgdaScript"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgdaScript&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="AgdaScript's GitHub Stats" /></a>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AgdaScript&theme=radical&hide_border=true&cache_seconds=86400" alt="AgdaScript's GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=AgdaScript&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Agda 's GitHub Trophies" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AgdaScript&theme=radical&radius=10" alt="AgdaScript's Activity Graph" />
-</p>
+</p> -->
 
 
 <div style="font-size: 0.82em;">
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+<h4 align="center" style="margin:0 0 10px;padding:0 0 8px;font-size:0.95em;font-weight:600;letter-spacing:0.07em;color:#8b949e;text-transform:uppercase;border-bottom:1px solid #30363d;">Programming Languages</h4>
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="39" height="39" style="margin: 3px;" /></p>
-
-> ## Frontend
+</td>
+<td width="50%" valign="top" align="center">
+<h4 align="center" style="margin:0 0 10px;padding:0 0 8px;font-size:0.95em;font-weight:600;letter-spacing:0.07em;color:#8b949e;text-transform:uppercase;border-bottom:1px solid #30363d;">Frontend</h4>
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="39" height="39" style="margin: 3px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="39" height="39" style="margin: 3px;" /></p>
-
-> ## Backend
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<h4 align="center" style="margin:0 0 10px;padding:0 0 8px;font-size:0.95em;font-weight:600;letter-spacing:0.07em;color:#8b949e;text-transform:uppercase;border-bottom:1px solid #30363d;">Backend</h4>
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="39" height="39" style="margin: 3px;" /></p>
-
-> ## Database
+</td>
+<td width="50%" valign="top" align="center">
+<h4 align="center" style="margin:0 0 10px;padding:0 0 8px;font-size:0.95em;font-weight:600;letter-spacing:0.07em;color:#8b949e;text-transform:uppercase;border-bottom:1px solid #30363d;">Database</h4>
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="39" height="39" style="margin: 3px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="39" height="39" style="margin: 3px;" /></p>
-
-> ## DevOps & Cloud
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<h4 align="center" style="margin:0 0 10px;padding:0 0 8px;font-size:0.95em;font-weight:600;letter-spacing:0.07em;color:#8b949e;text-transform:uppercase;border-bottom:1px solid #30363d;">DevOps &amp; Cloud</h4>
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="39" height="39" style="margin: 3px;" /></p>
-
-> ## Tools
+</td>
+<td width="50%" valign="top" align="center">
+<h4 align="center" style="margin:0 0 10px;padding:0 0 8px;font-size:0.95em;font-weight:600;letter-spacing:0.07em;color:#8b949e;text-transform:uppercase;border-bottom:1px solid #30363d;">Tools</h4>
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="39" height="39" style="margin: 3px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="39" height="39" style="margin: 3px;" /></p>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/AgdaScript">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgdaScript&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
+  <a href="https://github.com/AgdaScript"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgdaScript&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" /></a>
 </p>
 
 ## 🔗 Connect with Me
